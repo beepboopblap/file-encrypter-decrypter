@@ -35,3 +35,4 @@ Decrypting the file will look like...
 ```
 
 - After that, enter the file to encrypt/decrypt in the program
+![preview picture](prev.png)
