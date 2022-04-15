@@ -1,4 +1,4 @@
-# file-encrypter/decrypter
+# File encrypter/decrypter
 
 - Created a file encrypter/decrypter using shell script
 - Encryption and decryption using gpg
